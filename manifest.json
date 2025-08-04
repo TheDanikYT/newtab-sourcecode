@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "New Tab | NEXT",
+  "description": "Добро пожаловать, TheDanik! Твоя кастомная стартовая страница 🚀",
+  "version": "1.0",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "icons": {
+    "128": "icon128.png"
+  }
+}
